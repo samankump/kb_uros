@@ -1,0 +1,22 @@
+# Build artifacts
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+ros2_ws/src/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arduino build cache
+*.elf
+*.bin
+*.hex
+
+# OS & Editor
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
